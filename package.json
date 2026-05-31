@@ -1,0 +1,6 @@
+{
+    "name": "tps-counter",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "tps-counter.mjs"
+}
